@@ -1,5 +1,8 @@
 # RepoForge UI
 
+> RepoForge has moved to the monorepo: <https://github.com/CoolAlbert/repoforge>.
+> This repository is kept as the initial multi-repo spike.
+
 Svelte dashboard for the RepoForge PM workflow.
 
 The UI starts new Pi-agent runs, lists run status, and subscribes to live Server-Sent Event logs from `repoforge-control`.
